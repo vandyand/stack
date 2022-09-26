@@ -1,1 +1,1 @@
-# defstackfn implementation for Red Planet Labs
+# Custom DSL stack factory macro implementation
